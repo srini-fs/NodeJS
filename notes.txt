@@ -1,0 +1,84 @@
+
+arrow function 
+- short type of function 
+- it wont be bound by identier 
+- it wont retun any value 
+
+Promise - special JavaScript object, logic b/t server and client 
+
+let promise = new Promise (function(resolve, reject) ) {
+
+}
+
+new promiss - 
+
+status - pending 
+result - undefined 
+
+resolved (value) 
+    status - resolved 
+    result - value 
+
+rejecte (value) 
+    status - rejecte 
+    result - error  
+
+async - concurrent api call 
+await - background response 
+
+CORS - Which url we need a accss level. By default it's disabled. 
+
+DAY 2:
+
+npm init
+npm install express
+npm install cors
+npm install mongoose - mongodb connect
+express js - tp create REST API Application
+
+npm start serv
+
+get, create, update, delete, deleteAll
+
+DAY 3:
+
+EXPRESS JS:
+    Middleware - next()
+    1. Authentication
+    2. CORS
+    3. use method
+
+Read file function - asynchronous operation
+Read File sync function - synchronous operation which block
+async function - 
+await - background process
+Promise - 
+
+SERVERLESS USING AWS LAMBDA
+
+Express JS - Middleware
+Token based Auth: JWT or OAuth
+How to secure API
+Authentication & Authorization
+
+install: jsonwebtoken, bcrypt
+
+npm install jsonwebtoken bcryptjs --save
+
+jwt.io 
+
+DAY 4
+
+LOGGING
+
+Winston - MIT License
+-- Log Format - Specify the Log format
+-- Transport - where you want to Log
+
+Serilog
+
+Implement swagger - to design, document, and test RESTful web APIs.
+npm install swagger-ui-express swagger-js
+
+npm install express swagger-ui-express swagger-jsdoc body-parser nodemon mysql
+

@@ -1,0 +1,4 @@
+2023-11-02T05:28:09.501Z info: Received a GET request for /favicon.ico
+2023-11-02T05:28:52.971Z info: Received a GET request for /favicon.ico
+2023-11-02T05:43:35.737Z error: This is a test errorReferenceError: srini is not defined
+2023-11-02T05:43:35.791Z info: Received a GET request for /favicon.ico
